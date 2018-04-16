@@ -1,0 +1,5 @@
+package abitew.rest;
+
+public class UploadFile {
+
+}
